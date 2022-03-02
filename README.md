@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **GCECT_APP**
+- 👯 I’m looking to collaborate on [GCECT-APP](https://github.com/ByteMonk-GCECT/GCECT-APP)
 
 - 💬 Ask me about **Android,Kotlin**
 
